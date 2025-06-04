@@ -1,3 +1,4 @@
+require("esm-hook"); 
 const { merge } = require("webpack-merge");
 const singleSpaDefaults = require("webpack-config-single-spa-react-ts");
 
